@@ -1,18 +1,18 @@
-# Hi 👋, I'm JayHrh
+## Hi 👋, I'm JayHrh
 
 Hello, I am a programmer + student born in 2002:
 
 - 🌱 I’m currently learning **kubernetes、docker**
 
-- 👨‍💻 All of my projects are available at [<span style="text-decoration: none;">GitHub</span>](https://github.com/JayHrn)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/JayHrn)
 
-- 📝 I regularly write articles on my [<span style="text-decoration: none;">Blog</span>](https://blog.jayhrn.cn)
+- 📝 I regularly write articles on my [Blog](https://blog.jayhrn.cn)
 
 - 💬 You can communicate with me about **Java、Vue、Python...**
 
 - 📫 How to reach me **jayhrn9@gmail.com**
 
-- 📄 Know about my experiences [<span style="text-decoration: none;">About Me</span>](https://blog.jayhrn.cn/about/)
+- 📄 Know about my experiences [About Me](https://blog.jayhrn.cn/about/)
 
 - ⚡ Fun fact **I think active**
 
@@ -81,6 +81,6 @@ I am working hard to learn relevant knowledge
 </p>
 
 ## Achievement 🎉
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;"><img src="https://github-profile-trophy.vercel.app/?username=jayhrn" alt="jayhrn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;"><img src="https://github-profile-trophy.vercel.app/?username=jayhrn" alt="jayhrn"/></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayhrn&label=Profile%20views&color=0e75b6&style=flat" alt="jayhrn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayhrn&label=Profile%20views&color=0e75b6&style=flat" alt="jayhrn"/></p>
