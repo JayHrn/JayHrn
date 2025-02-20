@@ -84,3 +84,7 @@ I am working hard to learn relevant knowledge
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;"><img src="https://github-profile-trophy.vercel.app/?username=jayhrn" alt="jayhrn"/></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayhrn&label=Profile%20views&color=0e75b6&style=flat" alt="jayhrn"/></p>
+<hr>
+<p align="center">
+Developed with ❤️ forever  
+</p>
