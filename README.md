@@ -2,10 +2,6 @@
 
 Hello, I am a programmer + student born in 2002:
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E11AD9&width=435&lines=If+you+keep+thinking+about+it;+There+will+be+an+echo" alt="Typing SVG" />
-</p>
-
 - 🌱 I’m currently learning **kubernetes、docker**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/JayHrn)
@@ -65,8 +61,11 @@ I am working hard to learn relevant knowledge
 ## Achievement 🎉
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=jayhrn" alt="jayhrn"/></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayhrn&label=Profile%20views&color=0e75b6&style=flat" alt="jayhrn"/></p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E11AD9&width=435&lines=If+you+keep+thinking+about+it;+There+will+be+an+echo" alt="Typing SVG" />
+</p>
 <hr>
+
 <p align="center">
 Developed with ❤️ forever  
 </p>
