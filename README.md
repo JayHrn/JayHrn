@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm JayHrh.</h2>
+<h2><img src="./assets/blob-sunglasses.gif" width="30"/> Hey! I'm JayHrn.</h2>
 
 Hello, I am a programmer + student born in 2002:
 
@@ -20,59 +20,57 @@ Hello, I am a programmer + student born in 2002:
 
 I am working hard to learn relevant knowledge
 
-<p align="left"> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </span> 
-  <span> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </span> 
-</p>
+<a align="left" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/css3-original-wordmark.svg" alt="css3" title="css3" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > 
+  <img src="./assets/skills/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/> 
+</a>
+<a align="left" href="https://pugjs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" title="pug" width="40" height="40"/> 
+</a>
+<a align="left" href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="40" height="40"/> 
+</a> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+  <img align="left" src="./assets/skills/vuejs-original-wordmark.svg" alt="vuejs" title="vuejs" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/c-original.svg" alt="c" title="c" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/java-original.svg" alt="java" title="java" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/python-original.svg" alt="python" title="python" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/springio-icon.svg" alt="spring" title="spring" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://redis.io" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/redis-original-wordmark.svg" alt="redis" title="redis" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> 
+</a>
+<a align="left" href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/linux-original.svg" alt="linux" title="linux" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/docker-original-wordmark.svg" alt="docker" title="docker" width="40" height="40"/> 
+</a> 
+<a align="left" href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+  <img src="./assets/skills/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/> 
+</a> 
 
 ## This year's summary ✨
 <p>
@@ -81,7 +79,7 @@ I am working hard to learn relevant knowledge
 </p>
 
 ## Achievement 🎉
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;"><img src="https://github-profile-trophy.vercel.app/?username=jayhrn" alt="jayhrn"/></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=jayhrn" alt="jayhrn"/></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayhrn&label=Profile%20views&color=0e75b6&style=flat" alt="jayhrn"/></p>
 <hr>
