@@ -21,55 +21,55 @@ Hello, I am a programmer + student born in 2002:
 I am working hard to learn relevant knowledge
 
 <a align="left" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40"/> 
+  <img src="./assets/skills/html5-original-wordmark.svg" alt="html5" title="html5" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/css3-original-wordmark.svg" alt="css3" title="css3" width="40" height="40"/> 
+  <img src="./assets/skills/css3-original-wordmark.svg" alt="css3" title="css3" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > 
-  <img src="./assets/skills/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/> 
+  <img src="./assets/skills/javascript-original.svg" alt="javascript" title="javascript" width="40px" height="40px"/> 
 </a>
 <a align="left" href="https://pugjs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" title="pug" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" title="pug" width="40px" height="40px"/> 
 </a>
 <a align="left" href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="40" height="40"/> 
+  <img src="./assets/skills/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="40px" height="40px"/> 
 </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img align="left" src="./assets/skills/vuejs-original-wordmark.svg" alt="vuejs" title="vuejs" width="40" height="40"/> 
+  <img align="left" src="./assets/skills/vuejs-original-wordmark.svg" alt="vuejs" title="vuejs" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/c-original.svg" alt="c" title="c" width="40" height="40"/> 
+  <img src="./assets/skills/c-original.svg" alt="c" title="c" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/java-original.svg" alt="java" title="java" width="40" height="40"/> 
+  <img src="./assets/skills/java-original.svg" alt="java" title="java" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/python-original.svg" alt="python" title="python" width="40" height="40"/> 
+  <img src="./assets/skills/python-original.svg" alt="python" title="python" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/springio-icon.svg" alt="spring" title="spring" width="40" height="40"/> 
+  <img src="./assets/skills/springio-icon.svg" alt="spring" title="spring" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40"/> 
+  <img src="./assets/skills/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://redis.io" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/redis-original-wordmark.svg" alt="redis" title="redis" width="40" height="40"/> 
+  <img src="./assets/skills/redis-original-wordmark.svg" alt="redis" title="redis" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40"/> 
+  <img src="./assets/skills/getpostman-icon.svg" alt="postman" title="postman" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> 
+  <img src="./assets/skills/git-scm-icon.svg" alt="git" title="git" width="40px" height="40px"/> 
 </a>
 <a align="left" href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/linux-original.svg" alt="linux" title="linux" width="40" height="40"/> 
+  <img src="./assets/skills/linux-original.svg" alt="linux" title="linux" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/docker-original-wordmark.svg" alt="docker" title="docker" width="40" height="40"/> 
+  <img src="./assets/skills/docker-original-wordmark.svg" alt="docker" title="docker" width="40px" height="40px"/> 
 </a> 
 <a align="left" href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/> 
+  <img src="./assets/skills/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40px" height="40px"/> 
 </a> 
 
 ## This year's summary ✨
