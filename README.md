@@ -2,6 +2,10 @@
 
 Hello, I am a programmer + student born in 2002:
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E11AD9&width=435&lines=If+you+keep+thinking+about+it;+There+will+be+an+echo" alt="Typing SVG" />
+</p>
+
 - 🌱 I’m currently learning **kubernetes、docker**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/JayHrn)
@@ -20,57 +24,37 @@ Hello, I am a programmer + student born in 2002:
 
 I am working hard to learn relevant knowledge
 
-<a align="left" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/html5-original-wordmark.svg" alt="html5" title="html5" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/css3-original-wordmark.svg" alt="css3" title="css3" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > 
-  <img src="./assets/skills/javascript-original.svg" alt="javascript" title="javascript" width="40px" height="40px"/> 
-</a>
-<a align="left" href="https://pugjs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" title="pug" width="40px" height="40px"/> 
-</a>
-<a align="left" href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="40px" height="40px"/> 
-</a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img align="left" src="./assets/skills/vuejs-original-wordmark.svg" alt="vuejs" title="vuejs" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/c-original.svg" alt="c" title="c" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/java-original.svg" alt="java" title="java" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/python-original.svg" alt="python" title="python" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/springio-icon.svg" alt="spring" title="spring" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://redis.io" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/redis-original-wordmark.svg" alt="redis" title="redis" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/getpostman-icon.svg" alt="postman" title="postman" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/git-scm-icon.svg" alt="git" title="git" width="40px" height="40px"/> 
-</a>
-<a align="left" href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/linux-original.svg" alt="linux" title="linux" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/docker-original-wordmark.svg" alt="docker" title="docker" width="40px" height="40px"/> 
-</a> 
-<a align="left" href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-  <img src="./assets/skills/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40px" height="40px"/> 
-</a> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="40" alt="stylus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+</p>
 
 ## This year's summary ✨
 <p>
