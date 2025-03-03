@@ -21,35 +21,35 @@ Hello, I am a programmer + student born in 2002:
 I am working hard to learn relevant knowledge
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="40" alt="stylus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img src="./assets//skills/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="./assets//skills/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="./assets//skills/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="./assets//skills/stylus-original.svg" height="40" alt="stylus logo"  />
+  <img src="./assets//skills/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="./assets//skills/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="./assets//skills/threejs-original.svg" height="40" alt="threejs logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="./assets//skills/c-original.svg" height="40" alt="c logo"  />
+  <img src="./assets//skills/java-original.svg" height="40" alt="java logo"  />
+  <img src="./assets//skills/python-original.svg" height="40" alt="python logo"  />
+  <img src="./assets//skills/go-original.svg" height="40" alt="go logo"  />
+  <img src="./assets//skills/nodejs-original.svg" height="40" alt="nodejs logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="./assets//skills/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="./assets//skills/bash-original.svg" height="40" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="./assets//skills/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="./assets//skills/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="./assets//skills/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="./assets//skills/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="./assets//skills/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="./assets//skills/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="./assets//skills/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="./assets//skills/pycharm-original.svg" height="40" alt="pycharm logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img src="./assets//skills/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img src="./assets//skills/latex-original.svg" height="40" alt="latex logo"  />
 </p>
 
 ## This year's summary ✨
