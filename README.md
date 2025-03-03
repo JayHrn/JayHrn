@@ -62,7 +62,7 @@ I am working hard to learn relevant knowledge
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=jayhrn" alt="jayhrn"/></a></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E11AD9&width=435&lines=If+you+keep+thinking+about+it;+There+will+be+an+echo" alt="Typing SVG" />
+<img src="./assets/motto.svg" alt="Typing SVG" />
 </p>
 <hr>
 
