@@ -21,35 +21,53 @@ Hello, I am a programmer + student born in 2002:
 I am working hard to learn relevant knowledge
 
 <p align="left">
-  <img src="./assets//skills/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="./assets//skills/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="./assets//skills/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="./assets//skills/stylus-original.svg" height="40" alt="stylus logo"  />
-  <img src="./assets//skills/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img src="./assets//skills/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img src="./assets//skills/threejs-original.svg" height="40" alt="threejs logo"  />
-  
-  <img src="./assets//skills/c-original.svg" height="40" alt="c logo"  />
-  <img src="./assets//skills/java-original.svg" height="40" alt="java logo"  />
-  <img src="./assets//skills/python-original.svg" height="40" alt="python logo"  />
-  <img src="./assets//skills/go-original.svg" height="40" alt="go logo"  />
-  <img src="./assets//skills/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  
-  <img src="./assets//skills/linux-original.svg" height="40" alt="linux logo"  />
-  <img src="./assets//skills/bash-original.svg" height="40" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="./assets//skills/docker-original.svg" height="40" alt="docker logo"  />
-  <img src="./assets//skills/spring-original.svg" height="40" alt="spring logo"  />
-  <img src="./assets//skills/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="./assets//skills/redis-original.svg" height="40" alt="redis logo"  />
-  <img src="./assets//skills/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  
-  <img src="./assets//skills/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="./assets//skills/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img src="./assets//skills/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  
-  <img src="./assets//skills/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img src="./assets//skills/latex-original.svg" height="40" alt="latex logo"  />
+  <!-- 编程语言类 -->
+  <img src="./assets/skills/C.svg" height="40" alt="C logo" />
+  <img src="./assets/skills/GoLang.svg" height="40" alt="Golang logo" />
+  <img src="./assets/skills/Java-Dark.svg" height="40" alt="Java logo" />
+  <img src="./assets/skills/JavaScript.svg" height="40" alt="JavaScript logo" />
+  <img src="./assets/skills/Python-Dark.svg" height="40" alt="Python logo" />
+
+  <!-- 前端技术栈 -->
+  <img src="./assets/skills/CSS.svg" height="40" alt="CSS3 logo" />
+  <img src="./assets/skills/HTML.svg" height="40" alt="HTML5 logo" />
+  <img src="./assets/skills/Pug-Dark.svg" height="40" alt="Pug logo" />
+  <img src="./assets/skills/ThreeJS-Dark.svg" height="40" alt="Three.js logo" />
+  <img src="./assets/skills/VueJS-Dark.svg" height="40" alt="Vue.js logo" />
+
+  <!-- 运维与云原生 -->
+  <img src="./assets/skills/Docker.svg" height="40" alt="Docker logo" />
+  <img src="./assets/skills/Kubernetes.svg" height="40" alt="Kubernetes logo" />
+  <img src="./assets/skills/Linux-Dark.svg" height="40" alt="Linux logo" />
+
+  <!-- 数据库与中间件 -->
+  <img src="./assets/skills/MySQL-Dark.svg" height="40" alt="MySQL logo" />
+  <img src="./assets/skills/Redis-Dark.svg" height="40" alt="Redis logo" />
+
+  <!-- 版本控制与协作 -->
+  <img src="./assets/skills/Git.svg" height="40" alt="Git logo" />
+  <img src="./assets/skills/Github-Dark.svg" height="40" alt="GitHub logo" />
+
+  <!-- 文档与工具 -->
+  <img src="./assets/skills/LaTeX-Dark.svg" height="40" alt="LaTeX logo" />
+  <img src="./assets/skills/Markdown-Dark.svg" height="40" alt="Markdown logo" />
+  <img src="./assets/skills/Postman.svg" height="40" alt="Postman logo" />
+  <img src="./assets/skills/Vercel-Dark.svg" height="40" alt="Vercel logo" />
+
+  <!-- 框架与包管理 -->
+  <img src="./assets/skills/Maven-Dark.svg" height="40" alt="Maven logo" />
+  <img src="./assets/skills/NodeJS-Dark.svg" height="40" alt="Node.js logo" />
+  <img src="./assets/skills/Npm-Dark.svg" height="40" alt="npm logo" />
+  <img src="./assets/skills/Spring-Dark.svg" height="40" alt="Spring logo" />
+
+  <!-- 开发工具类 -->
+  <img src="./assets/skills/Bash-Dark.svg" height="40" alt="Bash logo" />
+  <img src="./assets/skills/VIM-Dark.svg" height="40" alt="Vim logo" />
+  <img src="./assets/skills/VSCode-Dark.svg" height="40" alt="Visual Studio Code logo" />
+  <img src="./assets/skills/CLion-Dark.svg" height="40" alt="CLion logo" />
+  <img src="./assets/skills/Idea-Dark.svg" height="40" alt="IntelliJ logo" />
+  <img src="./assets/skills/PyCharm-Dark.svg" height="40" alt="PyCharm logo" />
+  <img src="./assets/skills/WebStorm-Dark.svg" height="40" alt="WebStorm logo" />
 </p>
 
 ## This year's summary ✨
