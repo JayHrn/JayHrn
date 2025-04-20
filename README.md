@@ -1,20 +1,16 @@
 <h2><img src="./assets/blob-sunglasses.gif" width="30"/> Hey! I'm JayHrn.</h2>
 
-Hello, I am a programmer + student:
+Hello, I am a student from Nanjing University of Aeronautics and Astronautics:
 
-- 🌱 I’m currently learning **kubernetes、docker**
-
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/JayHrn)**
+- 👨‍💻 I’m currently learning **Java、kubernetes、docker...**
 
 - 📝 I regularly write articles on my **[Blog](https://blog.jayhrn.cn)**
 
-- 💬 You can communicate with me about **Java、Vue、Python...**
+- 💬 My favorite programming language is **Java**
 
 - 📫 How to reach me **jayhrn9@gmail.com**
 
-- 📄 Know about my experiences **[About Me](https://blog.jayhrn.cn/about/)**
-
-- ⚡ Fun fact **I think active**
+- ⚡ Very happy to make friends with everyone to discuss technology, etc.
 
 ## Languages and Tools 🎯
 
@@ -73,8 +69,8 @@ I am working hard to learn relevant knowledge
 
 ## This year's summary ✨
 <p>
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jayhrn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhrn&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-card.vercel.app/api?username=jayhrn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-card.vercel.app/api/top-langs/?username=jayhrn&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </p>
 
 <p align="center">
