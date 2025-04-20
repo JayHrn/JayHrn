@@ -77,9 +77,6 @@ I am working hard to learn relevant knowledge
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhrn&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </p>
 
-## Achievement 🎉
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=jayhrn" alt="jayhrn"/></a></p>
-
 <p align="center">
 <img src="./assets/motto.svg" alt="Typing SVG" />
 </p>
